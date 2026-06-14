@@ -1,11 +1,10 @@
-# credit-risk-portfolio-optimization-yeo
-Modélisation du risque de crédit et optimisation de portefeuille à l’aide de XGBoost et de la Probabilité de Défaut (PD) afin de prédire les défauts de paiement et maximiser la rentabilité du portefeuille de prêts.
-
-# credit-risk-portfolio-optimization
-Modélisation complète du risque de crédit et optimisation de portefeuille à l’aide de la Régression Logistique et de XGBoost afin de prédire les défauts de paiement, optimiser la stratégie d’acceptation des prêts et maximiser la rentabilité du portefeuille grâce à la modélisation de la Probabilité de Défaut (PD).
-
-
 # 🏦 Modélisation du Risque de Crédit & Optimisation de Portefeuille avec XGBoost
+
+
+🚀 Testez l’application interactive de Credit Risk Scoring et explorez le modèle XGBoost en temps réel.
+
+👉 https://https://credit-risk-portfolio.streamlit.app/
+
 
 ## 📌 Présentation du Projet
 
