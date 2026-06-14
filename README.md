@@ -1,9 +1,11 @@
 # 🏦 Modélisation du Risque de Crédit & Optimisation de Portefeuille avec XGBoost
 
 
-🚀 Testez l’application interactive de Credit Risk Scoring et explorez le modèle XGBoost en temps réel.
+## 🚀 Application Interactive
 
-👉 https://https://credit-risk-portfolio.streamlit.app/
+👉 [Accéder à l'application](https://credit-risk-portfolio.streamlit.app/)
+
+🚀 Testez l’application interactive de Credit Risk Scoring et explorez le modèle XGBoost en temps réel.
 
 
 ## 📌 Présentation du Projet
